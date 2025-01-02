@@ -30,7 +30,7 @@ I obtained my master's degree at the University of Tokyo and Bachelor's degree a
 
 # 📝 Publications
 - [Applying Albedo Estimation and Implicit Neural Representations to Well-Posed Shape From Shading] (https://ieeexplore.ieee.org/document/10106241), **Wanxin Bao**, Ren Komatsu, Hajime Asama, Qi An, Atsushi Yamashita, **IEEE Access**
-- [Solving Well-posed Shape from Shading Problem Using Implicit Neural Representations](https://ieeexplore.ieee.org/document/9798718), **Wanxin Bao**, Ren Komatsu, Atsushi Yamashita and Hajime Asama, **ICIPRoB2022**
+- [Solving Well-posed Shape from Shading Problem Using Implicit Neural Representations] (https://ieeexplore.ieee.org/document/9798718), **Wanxin Bao**, Ren Komatsu, Atsushi Yamashita and Hajime Asama, **ICIPRoB2022**
 # 🎖 Honors and Awards
 - *2024.04* Sanrio International Student Scholarship
 - *2018.09* CSC Scholarship
