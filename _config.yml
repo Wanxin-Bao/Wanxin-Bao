@@ -9,6 +9,7 @@
 title                    : "Wanxin Bao (包宛鑫)"
 description              : "Ph.D. student at the University of Tokyo. Focusing on 3D Reconstruction, Inverse Rendering. "
 repository               : "Wanxin-Bao/WanxinBao.github.io"
+url                      : https://Wanxin-Bao.github.io
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/Wanxin-Bao"
   google_plus      :
   keybase          :
   instagram        :
