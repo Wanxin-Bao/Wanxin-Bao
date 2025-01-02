@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second year PhD student at the University of Tokyo, (supervisor: Prog. [Atsushi Yamashita]) (https://www.robot.t.u-tokyo.ac.jp/~yamashita/index-j.html)I focus on 3D reconstruction, inverse rendering.
+I am currently a second year PhD student at the University of Tokyo, (supervisor: Prog. [Atsushi Yamashita]) (https://www.robot.t.u-tokyo.ac.jp/~yamashita/index-j.html)。 I focus on 3D reconstruction, inverse rendering.
 
 I obtained my master's degree at the University of Tokyo and Bachelor's degree at Dalian University of Technology.
 
@@ -30,10 +30,10 @@ I obtained my master's degree at the University of Tokyo and Bachelor's degree a
 
 # 📝 Publications
 - [Applying Albedo Estimation and Implicit Neural Representations to Well-Posed Shape From Shading] (https://ieeexplore.ieee.org/document/10106241), **Wanxin Bao**, Ren Komatsu, Hajime Asama, Qi An, Atsushi Yamashita, **IEEE Access**
-- [Solving Well-posed Shape from Shading Problem Using Implicit Neural Representations]([https://github.com](https://ieeexplore.ieee.org/document/9798718)), **Wanxin Bao**, Ren Komatsu, Atsushi Yamashita and Hajime Asama, **ICIPRoB2022**
+- [Solving Well-posed Shape from Shading Problem Using Implicit Neural Representations](https://ieeexplore.ieee.org/document/9798718), **Wanxin Bao**, Ren Komatsu, Atsushi Yamashita and Hajime Asama, **ICIPRoB2022**
 # 🎖 Honors and Awards
-- *2024.04 - now* Sanrio International Student Scholarship
-- *2018.09 - 2019.08* CSC Scholarship
+- *2024.04* Sanrio International Student Scholarship
+- *2018.09* CSC Scholarship
 - *2018.09* HIWIN Scholarship
 - *2017.09* National Scholarship
 - *2016.09* Sumitomo Chemistry Scholarship (First Prize)
