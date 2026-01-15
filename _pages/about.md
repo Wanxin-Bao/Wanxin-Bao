@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second year PhD student at the University of Tokyo (supervisor: Prof. [Atsushi Yamashita](https://www.robot.t.u-tokyo.ac.jp/~yamashita/index-j.html))。 I focus on 3D reconstruction, inverse rendering.
+I am currently a third year PhD student at the University of Tokyo (supervisor: Prof. [Atsushi Yamashita](https://www.robot.t.u-tokyo.ac.jp/~yamashita/index-j.html))。 I focus on 3D reconstruction in the dark, inverse rendering.
 
 I obtained my master's degree at the University of Tokyo and Bachelor's degree at Dalian University of Technology.
 
@@ -47,4 +47,5 @@ I obtained my master's degree at the University of Tokyo and Bachelor's degree a
 
 
 # 💻 Internships
+- *2025.05 - 2025.08*, Jingwei HIRAIN, Beijing.
 - *2021.07 - 2021.11*, Audi China, Beijing.
