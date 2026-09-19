@@ -30,6 +30,7 @@ I obtained my master's degree at the University of Tokyo and Bachelor's degree a
 
 # 📝 Publications
 - Image Synthesis of Novel Views and Lighting via Neural Reflectance Fields from Illumination-Inconsistent Images in the Dark, **Wanxin Bao**, Yusheng Wang, Jiaxu Wu, Qi An and Atsushi Yamashita, Under Review.
+- [Geometry-Stabilized Gaussian Splatting for Low-Contrast Degraded Images](https://www.robot.t.u-tokyo.ac.jp/~yamashita/paper/E/E539Final.pdf), **Wanxin Bao**, Yusheng Wang, Qi An and Atsushi Yamashita, IPSJ SIG Technical Report Vol. 2026-CG-202, No. 1 (June 2026)
 - [Applying Albedo Estimation and Implicit Neural Representations to Well-Posed Shape From Shading](https://ieeexplore.ieee.org/document/10106241), **Wanxin Bao**, Ren Komatsu, Hajime Asama, Qi An, Atsushi Yamashita, **IEEE Access**
 - [Solving Well-posed Shape from Shading Problem Using Implicit Neural Representations](https://ieeexplore.ieee.org/document/9798718), **Wanxin Bao**, Ren Komatsu, Atsushi Yamashita and Hajime Asama, **ICIPRoB2022**
 # 🎖 Honors and Awards
